@@ -5,4 +5,4 @@
 - 👯 I’m looking to collaborate on Machine Learning and App Development Projects
 - 🤔 I’m looking for help with Flutter development
 - 💬 Ask me about anything I will try to respond ASAP
-- 📫 How to reach me: linkedin: https://www.linkedin.com/in/utplakshi/ instagram: utplakshi.exe 
+- 📫 How to reach me: Linkedin: https://www.linkedin.com/in/utplakshi/ Instagram: utplakshi.exe 
