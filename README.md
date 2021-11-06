@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with Flutter development
 - 💬 Ask me about anything I will try to respond ASAP
 - 📫 How to reach me: Linkedin: https://www.linkedin.com/in/utplakshi/ Instagram: utplakshi.exe 
-<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=utplakshi&hide=issues&theme=tokyonight"/>
+<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=utplakshi&theme=tokyonight"/>
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=utplakshi&theme=tokyonight" alt="utplakshi" />
 <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=utplakshi&theme=rogue" />
 
